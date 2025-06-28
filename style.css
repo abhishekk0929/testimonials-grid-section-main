@@ -218,6 +218,7 @@ color: var(--white);
     max-width: unset;
     width: 100%;
     margin: 0;
+    position: relative;
   }
   .container2 { /* Jonathan */
     grid-column: 3 / 4;
@@ -257,8 +258,16 @@ body{
   overflow: hidden;
 }
 
-
-
+.quote-icon {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  width: 80px;  /* Adjust size as needed */
+  height: auto;
+  opacity: 0.7; /* Optional: make it subtle */
+  pointer-events: none; /* Ensures it doesn't block interactions */
+  z-index: 2;
+}
 
 
 
