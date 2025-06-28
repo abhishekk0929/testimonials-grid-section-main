@@ -268,8 +268,15 @@ body{
   pointer-events: none; /* Ensures it doesn't block interactions */
   z-index: 2;
 }
-
-
-
+.container,
+.container2,
+.container3,
+.container4,
+.container5 {
+box-shadow:
+  0 2.8px 14px rgba(44, 62, 80, 0.745),
+  0 8px 32px rgba(24, 77, 130, 0.294);
+  
+}
 
 }
