@@ -8,7 +8,7 @@ Live Demo: [https://abhishekk0929.github.io/testimonials-grid-section-main/](htt
 ## 📸 Screenshot
 
 <!-- Replace with your actual screenshot file path if available -->
-![Testimonials Grid Screenshot](./design/your-testimonals-@abhi.png)
+![Testimonials Grid Screenshot] design/testimonals-@abhi.png
 
 ---
 
